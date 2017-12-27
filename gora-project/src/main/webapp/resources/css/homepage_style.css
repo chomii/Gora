@@ -1,0 +1,42 @@
+/*!
+ * Start Bootstrap - Shop Homepage (http://startbootstrap.com/template-overviews/shop-homepage)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-shop-homepage/blob/master/LICENSE)
+ */
+
+body {
+    padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+    }
+}
+@font-face {
+    font-family: Caleb;
+    src: url('../fonts/Caleb.ttf');
+    }
+@font-face {
+    font-family: Monk;
+    src: url('../fonts/Monk.ttf');
+    }
+
+.navbar {
+  background-color: white;
+}
+.jumbotron {
+  font-family: Caleb;
+  background-image: url("../img/jumbotron_bg11.jpg");
+  color: white;
+  background-size: cover;
+  text-align: center;
+  height: 700px;
+}
+.jumbotron h1 {
+
+  font-weight: bold;
+}
+#proizvodi_meni {
+  padding-left: 20px;
+}
